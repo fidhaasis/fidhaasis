@@ -12,4 +12,4 @@ I am Fidha,
 
 ### 🌱 Currently Learning
 
-C++ • Python • HTML • CSS • JavaScript • Git & GitHub
+C++ • Python • HTML • JavaScript • Git & GitHub
