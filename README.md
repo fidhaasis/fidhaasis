@@ -1,15 +1,27 @@
-## Hi there 👋
-I am Fidha, 
-> "Still figuring things out,but always curious enough to built,break,learn and try again"
-### 👩‍💻 About Me
 
-- 🎓 CSE student
-- 💻 Currently learning C++ and Python
-- 🌐 Exploring web development
-- 🛠️ Learning by building, experimenting, and creating
-- 🎨 I enjoy dance, music, and creative things
-- 🚀 Learning by building, experimenting, and making mistakes
+╔══════════════════════════════════════════════╗
+              HEY, I'M FIDHA 👋
+      IT STUDENT • BUILDER • EXPLORER
+╚══════════════════════════════════════════════╝
 
-### 🌱 Currently Learning
+"Still figuring things out, but always curious
+ enough to build, break, learn, and try again."
 
+💻 Currently learning
+🌐 Exploring web development
+🚀 Building projects
+🎨 Dancing • Music • Creativity
+
+────────────── TECH STACK ──────────────
+
+C++ | Python | HTML | CSS | JavaScript | Git
+
+────────────── PROJECTS ───────────────
+
+💻 C++ Practice
+🌐 Web Projects
+
+────────────── CONNECT ─────────────────
+
+LinkedIn • Medium • Instagram
 C++ • Python • HTML • JavaScript • Git & GitHub
