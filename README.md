@@ -1,8 +1,8 @@
 
-╔══════════════════════════════════════════════╗
-              HEY, I'M FIDHA 👋
+
+            HEY, I'M FIDHA 👋
       IT STUDENT • BUILDER • EXPLORER
-╚══════════════════════════════════════════════╝
+
 
 "Still figuring things out, but always curious
  enough to build, break, learn, and try again."
