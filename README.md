@@ -1,7 +1,7 @@
 
 
-            HEY, I'M FIDHA 👋
-      IT STUDENT • BUILDER • EXPLORER
+HEY, I'M FIDHA 👋
+IT STUDENT • BUILDER • EXPLORER
 
 
 "Still figuring things out, but always curious
