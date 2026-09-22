@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am Fidha, 
-> Still figuring things out,but always curious enough to built,break,learn and try again
+> "Still figuring things out,but always curious enough to built,break,learn and try again"
 ### 👩‍💻 About Me
 
 - 🎓 CSE student
