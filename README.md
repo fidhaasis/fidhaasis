@@ -12,9 +12,6 @@ IT STUDENT • BUILDER • EXPLORER
 🚀 Building projects
 🎨 Dancing • Music • Creativity
 
-────────────── TECH STACK ──────────────
-
-C++ | Python | HTML | CSS | JavaScript | Git
 
 ────────────── PROJECTS ───────────────
 
@@ -24,4 +21,5 @@ C++ | Python | HTML | CSS | JavaScript | Git
 ────────────── CONNECT ─────────────────
 
 LinkedIn • Medium • Instagram
+
 C++ • Python • HTML • JavaScript • Git & GitHub
